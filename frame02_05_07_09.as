@@ -1,0 +1,1 @@
+gotoAndPlay(currentFrame -1);
